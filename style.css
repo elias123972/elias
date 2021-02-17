@@ -1,0 +1,26 @@
+body{background-color:rgb(43, 226, 113);
+    background-position: 5pc;
+    background-image: url(f.jpg); height:fit-content;  background-size: cover; 
+      text-align: center; 
+      padding: 10%;
+      background-repeat: no-repeat;
+      width: auto;)
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-language-override: initial;
+    font-variant-ligatures: normal;
+    padding: 20%;
+    padding-top: 10%;
+    padding-right: 20%;
+    padding-left: 15%;
+    color: navy;
+ 
+   
+  li{
+    float:left;
+  }
+ 
+  a{padding: 4px;
+    background-color: rgb(16, 1, 151);
+    box-shadow:inset;
+    }
